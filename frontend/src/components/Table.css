@@ -1,0 +1,7 @@
+.table-row .edit-delete-button {
+    visibility: hidden;
+  }
+  
+  .table-row:hover .edit-delete-button {
+    visibility: visible;
+  }
